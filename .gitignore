@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+# recordings and renders stay out of the repo
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*_dub/
